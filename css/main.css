@@ -1,8 +1,8 @@
 html {
   box-sizing: border-box;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   line-height: 1.5;
-  background-color: #CCCCCC;
+  background-color: #ccc;
 }
 
 *, *::before, *::after {
@@ -28,7 +28,7 @@ img {
 
 a {
   text-decoration: none;
-  color: #FFFFFF;
+  color: #fff;
   background-color: #444;
   padding: .5rem 1rem .6rem;
 }
