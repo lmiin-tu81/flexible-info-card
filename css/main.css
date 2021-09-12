@@ -1,0 +1,51 @@
+html {
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.5;
+  background-color: #CCCCCC;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+ul {
+  display: grid;
+  list-style: none;
+  grid-gap: 2rem;
+}
+
+li {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+img {
+  width: 5rem;
+  display: block;
+}
+
+a {
+  text-decoration: none;
+  color: #FFFFFF;
+  background-color: #444;
+  padding: .5rem 1rem .6rem;
+}
+
+h3 {
+  margin-bottom: 0;
+}
+
+h4 {
+  margin-top: 0;
+}
+
+hgroup {
+  width: 16rem;
+}
+
+p {
+  width: 24rem;
+  margin-right: 2rem;
+}
