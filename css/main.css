@@ -15,6 +15,12 @@ ul {
   grid-gap: 2rem;
 }
 
+body {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+}
+
 li {
   display: flex;
   gap: 1.5rem;
@@ -24,6 +30,7 @@ li {
 img {
   width: 5rem;
   display: block;
+  margin-right: 1.5rem;
 }
 
 a {
@@ -47,5 +54,5 @@ hgroup {
 
 p {
   width: 24rem;
-  margin-right: 2rem;
+  margin-right: 5rem;
 }
